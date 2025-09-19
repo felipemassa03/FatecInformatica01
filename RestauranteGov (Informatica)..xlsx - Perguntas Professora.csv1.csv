@@ -1,0 +1,43 @@
+A) Quantos municípios foram contemplados nos dados?,
+3517,
+B)-Quantas especialidades foram consideradas nos dados?,
+865,
+C)-Quantos tipos de Natureza Jurídica foram considerados nos dados?,
+32380,
+D)Quantos restaurantes estão cadastrados em  São José dos Campos?,
+46677,
+"5-Ao digitar o CNPJ em uma linha, deve ser retornado Nome Fantasia",
+CNPJ,NOME FANTASIA
+00005370000111,RESTAURANTE O CASARAO
+"6-Ao digitar o CNPJ em uma linha, deve ser retornada Situação da Atividade",
+CNPJ,NOME FANTASIA
+00005370000111,Operação
+,
+"7-Ao digitar o CNPJ em uma linha, deve ser retornada Natureza Jurídica",
+CNPJ,NOME FANTASIA
+00005370000111,Sociedade Empresária Limitada
+,
+"8-Ao digitar o CNPJ em uma linha, deve ser retornada UF",
+CNPJ,NOME FANTASIA
+00005370000111,SP
+,
+"9-Ao digitar o CNPJ em uma linha, deve ser retornada TIPO ",
+CNPJ,TIPO
+00005370000111,Restaurante
+,
+"10-Ao digitar o CNPJ em uma linha, deve ser retornada Especialidade",
+CNPJ,TIPO
+00005370000111,Brasileira|Cozinha regional
+,
+,
+5- PERGUNTAS E FORMULA,
+Conta quantos restaurantes em SP estão em operação.,
+9642,Objetivo: Contar o número de células que atendem a múltiplas condições.
+Quantos restaurantes têm a especialidade Brasileira?,
+41032,Objetivo: Contar o número de células que atendem a múltiplas condições.
+Quantos tipos diferentes de restaurantes existem? Tipo,
+6,Objetivo: Contar o número de células que atendem a múltiplas condições.
+Quantos restaurantes têm Sociedade Empresária Limitada como Natureza Jurídica?,
+32380,Objetivo: Contar o número de células que atendem a múltiplas condições.
+Nome do Restaurante e Local exato utilizando PROCV,
+ITABERABA POINT,Itaberaba  São Paulo Itaberaba CEP: 02739000 SP
