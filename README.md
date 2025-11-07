@@ -21,3 +21,9 @@
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7c5cc156-d688-480d-b9eb-773719e0fcf9" />
 
+
+6º Trabalho : Graficos sorvetes.
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c1cb0db5-881b-471d-8f6f-f029245367ca" />
+
+
