@@ -12,3 +12,6 @@
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/969cd2fd-0260-49b3-a3dd-fecb5c0281f4" />
 
+4º Trabalho : Filtros POWER BI
+
+<img width="500" height="500" alt="Captura de tela 2025-11-06 214535" src="https://github.com/user-attachments/assets/d3509059-c12a-4210-a041-8243a724e09a" />
