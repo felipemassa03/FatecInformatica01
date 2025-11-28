@@ -2,7 +2,7 @@
 
 <img width="500" height="500" src="https://github.com/user-attachments/assets/b90947d7-0c6e-448e-938c-b71012aa88ae" />
 
-2º Trabalho – Análise de Bares e Restaurantes
+2º Trabalho – Análise de Bares e Restaurantes [Planilha]([https://link.com](https://docs.google.com/spreadsheets/d/1N2_Wcerrs6vk5Ummlh-zE4EJKLRfNRHd/edit?gid=1860620610#gid=1860620610))
 
 <img width="500" height="500" src="https://github.com/user-attachments/assets/0c35c0c5-8299-468f-a89b-9cf713a77d59" />
 
